@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PgBackupTool", "PgBackupTool\PgBackupTool.csproj", "{879BF857-CC90-4A9D-9AF1-E5462D974A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{879BF857-CC90-4A9D-9AF1-E5462D974A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{879BF857-CC90-4A9D-9AF1-E5462D974A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{879BF857-CC90-4A9D-9AF1-E5462D974A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{879BF857-CC90-4A9D-9AF1-E5462D974A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12218403-82CA-43D5-ACA3-09D7CFA0989D}
+	EndGlobalSection
+EndGlobal
