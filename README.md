@@ -35,7 +35,7 @@ The application is configured using the `appsettings.json` file.
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/your-repo/PgBackupTool.git
+git clone https://github.com/levan1i/PgBackupTool.git
 2. Navigate to the project directory: cd PgBackupTool  
 3. Update the `appsettings.json` file with your configuration details.
 4. Build the project: dotnet build
